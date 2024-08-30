@@ -1,6 +1,6 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Welcome to my blog"
+author: "Boris Kouchou Tamegye"
 date: "2024-08-27"
 categories: [news]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Analgesic Data"
-author: "Boris Kouchou Tamegye"
+author: "Mariem Hachani"
 date: "2024-08-30"
 categories: [code, analysis, r]
 image: "image.jpg"
