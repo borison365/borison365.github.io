@@ -1,0 +1,15 @@
+---
+title: "Analysis of Analgesic Data"
+author: "Boris Kouchou Tamegye"
+date: "2024-08-30"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This was a thesis project to assess the variation in the use of analgesics in the elderly globally.
+You can find the project [here](https://github.com/borison365/Demographic-health-survey/blob/main/Thesis%20data%20on%20Analgesic%20use.R){target="blank"}
+---
+
+
+
+
