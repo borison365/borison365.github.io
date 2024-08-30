@@ -3,6 +3,8 @@ project:
   output-dir: "docs"
 
 website:
+
+
   title: "Tamegye Boris Kouchou"
   navbar:
     left: 
