@@ -9,13 +9,13 @@ website:
   navbar:
     left: 
       - text: "Home"
-        file: index.qmd
+        file: index_main.qmd
       - text: "Portfolio"
         file: portfolio.qmd
-      - text: "Resume"
+      - text: "CV"
         file: cv.qmd
       - text: "Projects"
-        file: project.qmd
+        file: project_bar.qmd
     right:
       - about.qmd
       - icon: github

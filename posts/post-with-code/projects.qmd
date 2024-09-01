@@ -1,7 +1,7 @@
 ---
 title: "1.Assessing the Variation in the Use of Analgesic in the Elderly"
 author: "Mariem Hachani"
-date: "2024-08-30"
+date: "2024-08-23"
 categories: [Public health, analysis, r]
 image: "over_view.jpg"
 ---

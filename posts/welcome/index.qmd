@@ -1,11 +1,11 @@
 ---
 title: Welcome to my blog"
-author: "Boris Kouchou Tamegye"
-date: "2024-08-27"
+author: "Boris Tamegye"
+date: "2024-06-27"
 categories: [graphs, charts, models]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in this Quarto blog. Welcome!
 
 ![](thumbnail.jpg)
 

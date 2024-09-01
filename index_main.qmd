@@ -1,8 +1,7 @@
----
 
 ---
 title: "Tamegye Boris Kouchou"
-image: Tamegye_profile-photo.jpg
+image: "Tamegye_profile-photo.jpg"
 about:
   template: jolla
   links:
