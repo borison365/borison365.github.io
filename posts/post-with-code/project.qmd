@@ -2,7 +2,7 @@
 title: "2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts"
 author: "Tamegye Kouchou Boris"
 date: "2024-07-10"
-categories: [code, epidemiology, r]
+categories: [code, Epidemiology, r]
 image: "final plot for thesis.png"
 ---
 
