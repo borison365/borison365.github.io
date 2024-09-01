@@ -1,15 +1,11 @@
 ---
-title: "Analysis of Analgesic Data"
+title: "1.Assessing the Variation in the Use of Analgesic in the Elderly"
 author: "Mariem Hachani"
 date: "2024-08-30"
 categories: [code, analysis, r]
-image: "image.jpg"
----
-
-This was a thesis project to assess the variation in the use of analgesics in the elderly globally.
-You can find the project [here](https://github.com/borison365/Demographic-health-survey/blob/main/Thesis%20data%20on%20Analgesic%20use.R){target="blank"}
+image: "2.3 data analgesics.png"
 ---
 
 
-
+This was a thesis project to assess the variation in the use of analgesics in the elderly globally, identify the patient/facility related factors. You can find the project [here](https://github.com/borison365/Demographic-health-survey/blob/main/Thesis%20data%20on%20Analgesic%20use.R){target="blank"}---
 
