@@ -1,0 +1,15 @@
+{
+  "hash": "5bfede16cf2a4825e60d9f3e3f6225c0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts\"\nauthor: \"Tamegye Kouchou Boris\"\ndate: \"2024-09-01\"\ncategories: [code, analysis, r]\nimage: \"final plot for thesis.png\"\n---\n\n\nThis was the result of my masters thesis at the global health center (CRIMEDIM). The systematic literature review uncovered four main setbacks in the flow of information amongst stakeholders.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
