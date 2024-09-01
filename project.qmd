@@ -6,5 +6,4 @@ categories: [code, analysis, r]
 image: "final plot for thesis.png"
 ---
 
-This was the result of my masters thesis at the global health center (CRIMEDIM). The systematic literature review uncovered four main  setbacks in the flow of information amongst stakeholders. 
-
+This was the result of my masters thesis at the global health center (CRIMEDIM). The systematic literature review uncovered four main setbacks in the flow of information amongst stakeholders.

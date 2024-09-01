@@ -12,7 +12,7 @@ website:
         file: index.qmd
       - text: "Portfolio"
         file: portfolio.qmd
-      - text: "CV"
+      - text: "Resume"
         file: cv.qmd
       - text: "Projects"
         file: project.qmd

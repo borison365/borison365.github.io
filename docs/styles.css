@@ -42,9 +42,6 @@ project_card <- function(title, description, link, image) {
 project_card("Project Title", "Brief description...", "project-link.html", "image.png")
 
 
-
-
-
 # Navbar example
 navbar <- "
 <nav class='navbar'>

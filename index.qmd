@@ -1,4 +1,6 @@
 ---
+
+---
 title: "Tamegye Boris Kouchou"
 image: Tamegye_profile-photo.jpg
 about:
