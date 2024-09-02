@@ -16,11 +16,8 @@ website:
         file: cv.qmd
       - text: "Projects"
         file: project_bar.qmd
-      - text: "Education"
-        file: education.qmd
+      
     right:
-      - text: "Contact"
-        file: contact.qmd
       - icon: github
         href: https://github.com/borison365
       - icon: twitter
