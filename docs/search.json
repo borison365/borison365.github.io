@@ -14,11 +14,18 @@
     "text": "This was a thesis project to assess the variation in the use of analgesics in the elderly globally, identify the patient/facility related factors. You can find the project here —"
   },
   {
-    "objectID": "posts/post-with-code/edu.html",
-    "href": "posts/post-with-code/edu.html",
-    "title": "Master in Medical Biotechnologies",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is where to insert your relevant courses and grades…"
+    "text": "1.Assessing the Variation in the Use of Analgesic in the Elderly\n\n\n\n\n\n\nPublic health\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 23, 2024\n\n\nMariem Hachani\n\n\n\n\n\n\n\n\n\n\n\n\n2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts\n\n\n\n\n\n\ncode\n\n\nEpidemiology\n\n\nr\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nTamegye Kouchou Boris\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog”\n\n\n\n\n\n\ngraphs\n\n\ncharts\n\n\nmodels\n\n\n\n\n\n\n\n\n\nJun 27, 2024\n\n\nBoris Tamegye\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "edu.html",
+    "href": "edu.html",
+    "title": "Education",
+    "section": "",
+    "text": "Master in Medical Biotechnologies 06 Oct 2022 - 16 Jul 2024\nInstitution: University of Eastern Piedmont, Novara, Italy - School of medicine: Via Solaroli 17, 28100 - Total CFU: 120\nRelevant courses: Big data analysis, Research methods and epidemiological study designs, Functional Genomics, Structural Genomics, Biomedical Statistics. For more about the degree program here -\nBachelor in Biomedical Science 06 Oct 2016 - 10 Aug 2019\nInstitution: University of Dschang, West region, Cameroon Faculty of medcine and Pharmaceutical Sciences Total CFU: 180\nRelevant courses: Epidemiology of Infectious Diseases, Biostatistics, Medical Microbiology."
   },
   {
     "objectID": "index_main.html",
@@ -26,13 +33,6 @@
     "title": "Tamegye Boris Kouchou",
     "section": "",
     "text": "is a skilled professional with a Master’s degree in Medical Biotechnologies from the University of Eastern Piedmont, specializing in Public Health. He currently serves as a Data Analyst at the Vercelli Council’s Department of Civil Protection, where he utilizes his proficiency in R, QGIS, and Power BI to analyze environmental safety data and support public health initiatives.\nBoris has a strong background in infectious disease research, having studied epidemic outbreaks in conflict zones and conducted health surveys in low resource settings, his prior work as a Community Health Worker in Nigeria further underscores his commitment to public health and community well-being.\nBoris aspires to advance research in infectious disease epidemiology and collaborate with NGOs and governmental organizations to address disease dynamics on a global scale. He is recognized for his diligence, independence, and dedication to improving public health research."
-  },
-  {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Master in Medical Biotechnologies\n\n\n\n\n\n\nPublic health\n\n\nGenomic analysis\n\n\nModelling\n\n\nBioinformatics\n\n\n\n\n\n\n\n\n\nAug 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n1.Assessing the Variation in the Use of Analgesic in the Elderly\n\n\n\n\n\n\nPublic health\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 23, 2024\n\n\nMariem Hachani\n\n\n\n\n\n\n\n\n\n\n\n\n2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts\n\n\n\n\n\n\ncode\n\n\nEpidemiology\n\n\nr\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nTamegye Kouchou Boris\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog”\n\n\n\n\n\n\ngraphs\n\n\ncharts\n\n\nmodels\n\n\n\n\n\n\n\n\n\nJun 27, 2024\n\n\nBoris Tamegye\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/project.html",

@@ -10,14 +10,13 @@ website:
     left: 
       - text: "Home"
         file: index_main.qmd
-      - text: "Portfolio"
+      - text: "Projects"
         file: portfolio.qmd
+        file: project_bar.qmd
       - text: "Education"
       - file: edu.qmd
       - text: "CV"
         file: cv.qmd
-      - text: "Projects"
-        file: project_bar.qmd
       
     right:
       - icon: github

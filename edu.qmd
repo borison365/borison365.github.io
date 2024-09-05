@@ -1,0 +1,24 @@
+---
+title: "Education"
+date: "2024-07-23"
+categories: [Postgrad, undergrad]
+image: "UPO logo.jpeg"
+---
+
+**Master in Medical Biotechnologies**         06 Oct 2022 - 16 Jul 2024
+    
+**Institution**: University of Eastern Piedmont, Novara, Italy -
+School of medicine: Via Solaroli 17, 28100 -
+Total CFU: 120 
+
+**Relevant courses**: Big data analysis, Research methods and epidemiological study designs, 
+Functional Genomics, Structural Genomics, Biomedical Statistics. For more about the degree program
+[here](https://www.uniupo.it/it/corsi/corsi-di-laurea-magistrali/medical-biotechnologies-corso-lingua-inglese){target="blank"} -
+
+**Bachelor in Biomedical Science**               06 Oct 2016 - 10 Aug 2019
+    
+**Institution**: University of Dschang, West region, Cameroon
+Faculty of medcine and Pharmaceutical Sciences
+Total CFU: 180
+
+**Relevant courses**: Epidemiology of Infectious Diseases, Biostatistics, Medical Microbiology.  
