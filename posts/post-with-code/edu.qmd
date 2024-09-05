@@ -1,0 +1,9 @@
+---
+title: "Master in Medical Biotechnologies"
+institution: "University of Eastern Piedmont, Novara, Italy"
+date: "2024-08-23"
+categories: [Public health, Genomic analysis, Modelling, Bioinformatics]
+image: "UPO logo.jpeg"
+---
+
+This is where to insert your relevant courses and grades...

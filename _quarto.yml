@@ -12,6 +12,8 @@ website:
         file: index_main.qmd
       - text: "Portfolio"
         file: portfolio.qmd
+      - text: "Education"
+      - file: edu.qmd
       - text: "CV"
         file: cv.qmd
       - text: "Projects"
