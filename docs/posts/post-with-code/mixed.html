@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Tamegye Kouchou Boris">
-<meta name="dcterms.date" content="2024-07-10">
+<meta name="author" content="Salim Dasan, Boris Tamegye">
+<meta name="dcterms.date" content="2024-05-23">
 
-<title>About - 2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts</title>
+<title>About - Longitudinal Analysis Using Linear Mixed-effects Models</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -98,12 +98,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../portfolio.html"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
+  <li class="dropdown-header">
+ <span class="menu-text">Education</span></li>
   <li class="nav-item">
-    <a class="nav-link" href="../../project_bar.html"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../edu.html"> 
+    <a class="nav-link" href="../../education.html"> 
 <span class="menu-text">Education</span></a>
   </li>  
   <li class="nav-item">
@@ -133,10 +131,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts</h1>
+      <h1 class="title">Longitudinal Analysis Using Linear Mixed-effects Models</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">code</div>
-                <div class="quarto-category">Epidemiology</div>
+                <div class="quarto-category">Biostatistics</div>
+                <div class="quarto-category">analysis</div>
                 <div class="quarto-category">r</div>
               </div>
                   </div>
@@ -148,14 +146,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Tamegye Kouchou Boris </p>
+               <p>Salim Dasan, Boris Tamegye </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">July 10, 2024</p>
+        <p class="date">May 23, 2024</p>
       </div>
     </div>
     
@@ -174,7 +172,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This was the result of my masters thesis at the global health center (CRIMEDIM). The systematic literature review uncovered four main setbacks in the flow of information amongst stakeholders.</p>
+<p>We used the dataset Orthodont to perferm our analysis with <strong>repeated variables</strong>…</p>
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="longitudinal data.jpeg" class="img-fluid figure-img" width="600"></p>
+<figcaption>Growth of Childrens Teeth per Gender</figcaption>
+</figure>
+</div>
+<pre><code>        ** Interpreting the model**</code></pre>
+<p>The <code>lme</code> function fits a linear mixed-effects model with <code>distance</code> as the response variable, <code>age</code> and <code>Sex</code> as fixed effects, and random intercepts and slopes (age) for each subject. The interaction term <code>age * Sex</code> allows for the possibility that the effect of age on distance might differ between males and females.</p>
+<p>This plot shows the observed data points and the fitted lines from the mixed-effects model, with different colors representing different sexes.</p>
 
 
 

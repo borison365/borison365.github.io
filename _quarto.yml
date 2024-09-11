@@ -4,17 +4,15 @@ project:
 
 website:
 
-
   title: "About"
   navbar:
     left: 
       - text: "Home"
         file: index_main.qmd
-      - text: "Projects"
+      - text: "Portfolio"
         file: portfolio.qmd
-        file: project_bar.qmd
       - text: "Education"
-      - file: edu.qmd
+      - file: education.qmd
       - text: "CV"
         file: cv.qmd
       

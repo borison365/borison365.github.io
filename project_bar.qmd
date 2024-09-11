@@ -1,9 +1,0 @@
----
-title: "2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts"
-author: "Tamegye Kouchou Boris"
-date: "2024-07-10"
-categories: [code, analysis, r]
-image: "final plot for thesis.png"
----
-
-During my masters thesis at the global health center (CRIMEDIM) I performed a systematic literature review to uncover the main setbacks in civilian trauma care data collection and reporting amongst stakeholders in austere environments. Details of the project and results can be view [here](https://github.com/borison365/Global-health-thesis){target="blank"} ---

@@ -1,0 +1,19 @@
+---
+title: "Longitudinal Analysis Using Linear Mixed-effects Models"
+author: "Salim Dasan, Boris Tamegye"
+date: "2024-05-23"
+categories: [Biostatistics, analysis, r]
+image: "longitudinal data.jpeg"
+---
+
+We used the dataset Orthodont to perferm our analysis with **repeated variables**...
+
+![Growth of Childrens Teeth per Gender](longitudinal data.jpeg){fig-align="right" width="600"}
+
+```         
+        ** Interpreting the model**
+```
+
+The `lme` function fits a linear mixed-effects model with `distance` as the response variable, `age` and `Sex` as fixed effects, and random intercepts and slopes (age) for each subject. The interaction term `age * Sex` allows for the possibility that the effect of age on distance might differ between males and females.
+
+This plot shows the observed data points and the fitted lines from the mixed-effects model, with different colors representing different sexes.

@@ -2,9 +2,15 @@
   {
     "listing": "/portfolio.html",
     "items": [
-      "/posts/post-with-code/projects.html",
-      "/posts/post-with-code/project.html",
-      "/posts/welcome/index.html"
+      "/posts/post-with-code/projects_analgesic.html",
+      "/posts/post-with-code/project_crimedim.html",
+      "/posts/post-with-code/mixed.html"
+    ]
+  },
+  {
+    "listing": "/education.html",
+    "items": [
+      "/quali.html"
     ]
   }
 ]

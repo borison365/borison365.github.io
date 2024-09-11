@@ -1,14 +1,14 @@
 [
   {
-    "objectID": "project_bar.html",
-    "href": "project_bar.html",
-    "title": "2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts",
+    "objectID": "quali.html",
+    "href": "quali.html",
+    "title": "About",
     "section": "",
-    "text": "This was the result of my masters thesis at the global health center (CRIMEDIM). The systematic literature review uncovered four main setbacks in the flow of information amongst stakeholders. Details of the project can be view here —"
+    "text": "Master in Medical Biotechnologies 06 Oct 2022 - 16 Jul 2024\nInstitution: University of Eastern Piedmont, Novara, Italy - School of medicine: Via Solaroli 17, 28100\n\nTotal CFU: 120\n\nRelevant courses:\n\nBig data analysis\nResearch methods and epidemiological study designs\nFunctional Genomics\nStructural Genomics\nBiomedical Statistics.\n\nFor more info about the degree program here —\nBachelor in Biomedical Science 06 Oct 2016 - 10 Aug 2019\nInstitution: University of Dschang, West region, Cameroon\n\nFaculty of Medcine and Pharmaceutical Sciences\nTotal CFU: 180\n\nRelevant courses:\n\nEpidemiology of Infectious Diseases\nBiostatistics\nMedical Microbiology."
   },
   {
-    "objectID": "posts/post-with-code/projects.html",
-    "href": "posts/post-with-code/projects.html",
+    "objectID": "posts/post-with-code/projects_analgesic.html",
+    "href": "posts/post-with-code/projects_analgesic.html",
     "title": "1.Assessing the Variation in the Use of Analgesic in the Elderly",
     "section": "",
     "text": "This was a thesis project to assess the variation in the use of analgesics in the elderly globally, identify the patient/facility related factors. You can find the project here —"
@@ -18,14 +18,14 @@
     "href": "portfolio.html",
     "title": "Projects",
     "section": "",
-    "text": "1.Assessing the Variation in the Use of Analgesic in the Elderly\n\n\n\n\n\n\nPublic health\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 23, 2024\n\n\nMariem Hachani\n\n\n\n\n\n\n\n\n\n\n\n\n2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts\n\n\n\n\n\n\ncode\n\n\nEpidemiology\n\n\nr\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nTamegye Kouchou Boris\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my blog”\n\n\n\n\n\n\ngraphs\n\n\ncharts\n\n\nmodels\n\n\n\n\n\n\n\n\n\nJun 27, 2024\n\n\nBoris Tamegye\n\n\n\n\n\n\nNo matching items"
+    "text": "1.Assessing the Variation in the Use of Analgesic in the Elderly\n\n\n\n\n\n\nPublic health\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 23, 2024\n\n\nMariem Hachani\n\n\n\n\n\n\n\n\n\n\n\n\n2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts\n\n\n\n\n\n\ncode\n\n\nEpidemiology\n\n\nr\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nTamegye Kouchou Boris\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Analysis Using Linear Mixed-effects Models\n\n\n\n\n\n\nBiostatistics\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nMay 23, 2024\n\n\nSalim Dasan, Boris Tamegye\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "edu.html",
-    "href": "edu.html",
+    "objectID": "education.html",
+    "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Master in Medical Biotechnologies 06 Oct 2022 - 16 Jul 2024\nInstitution: University of Eastern Piedmont, Novara, Italy - School of medicine: Via Solaroli 17, 28100 - Total CFU: 120\nRelevant courses: Big data analysis, Research methods and epidemiological study designs, Functional Genomics, Structural Genomics, Biomedical Statistics. For more about the degree program here -\nBachelor in Biomedical Science 06 Oct 2016 - 10 Aug 2019\nInstitution: University of Dschang, West region, Cameroon Faculty of medcine and Pharmaceutical Sciences Total CFU: 180\nRelevant courses: Epidemiology of Infectious Diseases, Biostatistics, Medical Microbiology."
+    "text": "No matching items"
   },
   {
     "objectID": "index_main.html",
@@ -35,17 +35,17 @@
     "text": "is a skilled professional with a Master’s degree in Medical Biotechnologies from the University of Eastern Piedmont, specializing in Public Health. He currently serves as a Data Analyst at the Vercelli Council’s Department of Civil Protection, where he utilizes his proficiency in R, QGIS, and Power BI to analyze environmental safety data and support public health initiatives.\nBoris has a strong background in infectious disease research, having studied epidemic outbreaks in conflict zones and conducted health surveys in low resource settings, his prior work as a Community Health Worker in Nigeria further underscores his commitment to public health and community well-being.\nBoris aspires to advance research in infectious disease epidemiology and collaborate with NGOs and governmental organizations to address disease dynamics on a global scale. He is recognized for his diligence, independence, and dedication to improving public health research."
   },
   {
-    "objectID": "posts/post-with-code/project.html",
-    "href": "posts/post-with-code/project.html",
+    "objectID": "posts/post-with-code/mixed.html",
+    "href": "posts/post-with-code/mixed.html",
+    "title": "Longitudinal Analysis Using Linear Mixed-effects Models",
+    "section": "",
+    "text": "We used the dataset Orthodont to perferm our analysis with repeated variables…\n\n\n\nGrowth of Childrens Teeth per Gender\n\n\n        ** Interpreting the model**\nThe lme function fits a linear mixed-effects model with distance as the response variable, age and Sex as fixed effects, and random intercepts and slopes (age) for each subject. The interaction term age * Sex allows for the possibility that the effect of age on distance might differ between males and females.\nThis plot shows the observed data points and the fitted lines from the mixed-effects model, with different colors representing different sexes."
+  },
+  {
+    "objectID": "posts/post-with-code/project_crimedim.html",
+    "href": "posts/post-with-code/project_crimedim.html",
     "title": "2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts",
     "section": "",
     "text": "This was the result of my masters thesis at the global health center (CRIMEDIM). The systematic literature review uncovered four main setbacks in the flow of information amongst stakeholders."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome to my blog”",
-    "section": "",
-    "text": "This is the first post in this Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
