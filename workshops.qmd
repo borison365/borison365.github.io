@@ -24,7 +24,7 @@ The graph below represents an **SIR model** simulation of an influenza outbreak 
 
 ![](images/clipboard-2023033951.png){width="321"}
 
-![![](images/clipboard-1977229827.png){width="677"}](images/clipboard-2306760533.png){width="764"}
+![![](images/clipboard-1977229827.png){width="761"}](images/clipboard-2306760533.png){width="764"}
 
 2.  **Simulation of the COVID 19 SEIR model, including vaccination**
 
@@ -42,4 +42,20 @@ The **SEIRV model** simulates the spread of COVID-19 by categorizing individuals
 
 -   **Vaccinated (V)**: Individuals who received the vaccine, reducing their susceptibility.
 
-This model demonstrates the dynamics of COVID-19 transmission over time and highlights how vaccination plays a crucial role in reducing the spread of the virus. It takes into account incubation periods, infection rates, and vaccination efforts, making it a useful tool for understanding epidemic behavior and predicting outcomes based on intervention strategies.
+This model demonstrates the dynamics of COVID-19 transmission over time and highlights how vaccination plays a crucial role in reducing the spread of the virus. It takes into account **incubation periods**, infection rates, and vaccination efforts, making it a useful tool for understanding epidemic behavior and predicting outcomes based on intervention strategies.
+
+3.  **Stochastic Malaria Transmission Model (Human-Mosquito Dynamics)**
+
+![](images/malaria_model.png)
+
+This graph visualizes malaria transmission dynamics in an endemic area. It shows three populations over time:
+
+1.  **Infected Humans** (red line): Peaks as malaria spreads, then declines as individuals recover.
+
+2.  **Recovered Humans** (blue line): Grows steadily as infected individuals recover.
+
+3.  **Mosquito Population** (green line, secondary axis): Reflects seasonal variations, with a surge during the rainy season (days 50-150), leading to increased mosquito birth and malaria transmission.
+
+    -   This model simulates the interactions between humans and mosquitoes in an endemic malaria scenario.
+
+    -   The **stochastic component** is reflected in the randomness of mosquito population growth and human infection dynamics. The model uses **twin axes** to show **human populations** (infected and recovered) and **mosquito population** dynamics, including seasonal mosquito birth during the rainy season. This approach captures the inherent randomness in disease transmission and mosquito reproduction, making it more realistic for real-world applications.
