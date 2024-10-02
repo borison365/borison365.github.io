@@ -13,8 +13,8 @@ website:
         file: portfolio.qmd
       - text: "Education"
       - file: education.qmd
-      - text: "CV"
-        file: cv.qmd
+      - text: "Workshops"
+        file: workshops.qmd
       
     right:
       - icon: github

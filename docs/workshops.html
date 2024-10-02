@@ -103,8 +103,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Education</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page"> 
-<span class="menu-text">CV</span></a>
+    <a class="nav-link active" href="./workshops.html" aria-current="page"> 
+<span class="menu-text">Workshops</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -136,9 +136,56 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><embed src="Resume_PhD_dk.pdf" style="width:100.0%" height="1000"></p>
+<p><strong>Infectious disease dynamics</strong></p>
+<ol type="1">
+<li>Simulation of the <strong>Kermack and McKendrick</strong> SIR model of influenza</li>
+</ol>
+<p>The graph below represents an <strong>SIR model</strong> simulation of an influenza outbreak over 160 days. The three curves show the population of <strong>Susceptible (S)</strong>, <strong>Infected (I)</strong>, and <strong>Recovered (R)</strong> individuals.</p>
+<ul>
+<li><p>The <strong>black dashed line</strong> shows the rapid decline in the susceptible population as the infection spreads.</p></li>
+<li><p>The <strong>red line</strong> shows the peak of infection occurring around day 20, followed by a steep drop as individuals recover.</p></li>
+<li><p>The <strong>blue dotted line</strong> represents the growth of the recovered population as more individuals recover and gain immunity over time.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="images/Influenza model-01.png" class="img-fluid quarto-figure quarto-figure-right figure-img"></p>
+</figure>
+</div>
+<section id="key-parameters" class="level3">
+<h3 class="anchored" data-anchor-id="key-parameters">Key Parameters:</h3>
+<ol type="1">
+<li><p><strong>Transmission Rate (β)</strong>: In this case, β = 1.28, which represents how many people an infected person transmits the disease to per day. It is tied to the <strong>basic reproductive number (R₀)</strong>, which is a crucial measure in epidemiology. The value of <strong>R₀</strong> is calculated as:</p>
+<p>R₀​=β​/γ</p>
+<p>where <strong>γ</strong> is the recovery rate. <strong>R₀</strong> tells us how many people one infected person will, on average, spread the disease to in a fully susceptible population. In this example, <strong>γ = 1/7</strong> (1 recovery every 7 days). Thus, <strong>R₀</strong> in this scenario is approximately 8.96, suggesting a highly contagious disease.</p></li>
+<li><p><strong>Recovery Rate (γ)</strong>: This parameter indicates how quickly infected individuals recover. A <strong>γ</strong> value of 1/7 means it takes an average of 7 days for an infected person to recover.</p></li>
+</ol>
+<p><img src="images/clipboard-2023033951.png" class="img-fluid" width="321"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clipboard-2306760533.png" class="img-fluid figure-img" width="764"></p>
+<figcaption><img src="images/clipboard-1977229827.png" class="img-fluid figure-img" width="677"></figcaption>
+</figure>
+</div>
+<ol start="2" type="1">
+<li><strong>Simulation of the COVID 19 SEIR model, including vaccination</strong></li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/COVID 19_SEIRV_model.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>The <strong>SEIRV model</strong> simulates the spread of COVID-19 by categorizing individuals into five groups:</p>
+<ul>
+<li><p><strong>Susceptible (S)</strong>: Uninfected and unvaccinated individuals.</p></li>
+<li><p><strong>Exposed (E)</strong>: Infected but not yet contagious individuals.</p></li>
+<li><p><strong>Infected (I)</strong>: Actively infectious individuals.</p></li>
+<li><p><strong>Recovered (R)</strong>: Those who recovered from the disease and gained immunity.</p></li>
+<li><p><strong>Vaccinated (V)</strong>: Individuals who received the vaccine, reducing their susceptibility.</p></li>
+</ul>
+<p>This model demonstrates the dynamics of COVID-19 transmission over time and highlights how vaccination plays a crucial role in reducing the spread of the virus. It takes into account incubation periods, infection rates, and vaccination efforts, making it a useful tool for understanding epidemic behavior and predicting outcomes based on intervention strategies.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

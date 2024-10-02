@@ -1,0 +1,45 @@
+**Infectious disease dynamics**
+
+1.  Simulation of the **Kermack and McKendrick** SIR model of influenza
+
+The graph below represents an **SIR model** simulation of an influenza outbreak over 160 days. The three curves show the population of **Susceptible (S)**, **Infected (I)**, and **Recovered (R)** individuals.
+
+-   The **black dashed line** shows the rapid decline in the susceptible population as the infection spreads.
+
+-   The **red line** shows the peak of infection occurring around day 20, followed by a steep drop as individuals recover.
+
+-   The **blue dotted line** represents the growth of the recovered population as more individuals recover and gain immunity over time.
+
+![](images/Influenza%20model-01.png){fig-align="right"}
+
+### Key Parameters:
+
+1.  **Transmission Rate (β)**: In this case, β = 1.28, which represents how many people an infected person transmits the disease to per day. It is tied to the **basic reproductive number (R₀)**, which is a crucial measure in epidemiology. The value of **R₀** is calculated as:
+
+    R₀​=β​/γ
+
+    where **γ** is the recovery rate. **R₀** tells us how many people one infected person will, on average, spread the disease to in a fully susceptible population. In this example, **γ = 1/7** (1 recovery every 7 days). Thus, **R₀** in this scenario is approximately 8.96, suggesting a highly contagious disease.
+
+2.  **Recovery Rate (γ)**: This parameter indicates how quickly infected individuals recover. A **γ** value of 1/7 means it takes an average of 7 days for an infected person to recover.
+
+![](images/clipboard-2023033951.png){width="321"}
+
+![![](images/clipboard-1977229827.png){width="677"}](images/clipboard-2306760533.png){width="764"}
+
+2.  **Simulation of the COVID 19 SEIR model, including vaccination**
+
+![](images/COVID%2019_SEIRV_model.png){fig-align="center"}
+
+The **SEIRV model** simulates the spread of COVID-19 by categorizing individuals into five groups:
+
+-   **Susceptible (S)**: Uninfected and unvaccinated individuals.
+
+-   **Exposed (E)**: Infected but not yet contagious individuals.
+
+-   **Infected (I)**: Actively infectious individuals.
+
+-   **Recovered (R)**: Those who recovered from the disease and gained immunity.
+
+-   **Vaccinated (V)**: Individuals who received the vaccine, reducing their susceptibility.
+
+This model demonstrates the dynamics of COVID-19 transmission over time and highlights how vaccination plays a crucial role in reducing the spread of the virus. It takes into account incubation periods, infection rates, and vaccination efforts, making it a useful tool for understanding epidemic behavior and predicting outcomes based on intervention strategies.
