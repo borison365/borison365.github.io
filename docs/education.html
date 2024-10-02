@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,73 +66,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -186,36 +126,38 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Education</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Education</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Undergrad</div>
+    <div class="quarto-category">Postgrad</div>
+  </div>
+  </div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<p><strong>Master in Medical Biotechnologies</strong> <em>06 Oct 2022 - 16 Jul 2024</em></p>
+</header>
+
+
+<section id="master-in-medical-biotechnologies-06-oct-2022---16-jul-2024" class="level2">
+<h2 class="anchored" data-anchor-id="master-in-medical-biotechnologies-06-oct-2022---16-jul-2024"><strong>Master in Medical Biotechnologies</strong> <em>06 Oct 2022 - 16 Jul 2024</em></h2>
 <p>Institution: University of Eastern Piedmont, Novara, Italy</p>
 <ul>
 <li>School of medicine: Via Solaroli 17, 28100 Total CFU: 120</li>
@@ -227,7 +169,9 @@ window.Quarto = {
 <p>Structural Genomics</p>
 <p>Biomedical Statistics.</p>
 <p>For more info about the degree program <a href="https://www.uniupo.it/en/courses/masters-degrees/medical-biotechnologies-course-held-english" target="blank">here</a> —</p>
-<p><strong>Bachelor in Biomedical Science</strong> <em>06 Oct 2016 - 10 Aug 2019</em></p>
+</section>
+<section id="bachelor-in-biomedical-science-06-oct-2016---10-aug-2019" class="level2">
+<h2 class="anchored" data-anchor-id="bachelor-in-biomedical-science-06-oct-2016---10-aug-2019"><strong>Bachelor in Biomedical Science</strong> <em>06 Oct 2016 - 10 Aug 2019</em></h2>
 <p>Institution: University of Dschang, West region, Cameroon</p>
 <p>Faculty of Medcine and Pharmaceutical Sciences Total CFU: 180</p>
 <p><strong>Relevant courses</strong>:</p>
@@ -236,31 +180,9 @@ window.Quarto = {
 <p>Medical Microbiology.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1727881218639" data-listing-reading-time-sort="1" data-listing-word-count-sort="110">
-<div class="thumbnail">
-<p><a href="./quali.html" class="no-external"></a></p><a href="./quali.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./quali.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<div class="listing-description">
-<a href="./quali.html" class="no-external"><strong>Master in Medical Biotechnologies</strong> 06 Oct 2022 - 16 Jul 2024</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./quali.html" class="no-external"></a></p><a href="./quali.html" class="no-external">
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

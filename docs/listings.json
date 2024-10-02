@@ -2,7 +2,12 @@
   {
     "listing": "/education.html",
     "items": [
-      "/quali.html"
+      "/index_main.html",
+      "/portfolio.html",
+      "/workshops.html",
+      "/posts/post-with-code/projects_analgesic.html",
+      "/posts/post-with-code/project_crimedim.html",
+      "/posts/post-with-code/mixed.html"
     ]
   },
   {

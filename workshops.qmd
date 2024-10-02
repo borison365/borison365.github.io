@@ -1,4 +1,4 @@
-**Infectious disease dynamics**
+# **Infectious disease dynamics**
 
 1.  Simulation of the **Kermack and McKendrick** SIR model of influenza
 

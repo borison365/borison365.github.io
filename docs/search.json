@@ -1,45 +1,31 @@
 [
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "About",
-    "section": "",
-    "text": "Infectious disease dynamics\n\nSimulation of the Kermack and McKendrick SIR model of influenza\n\nThe graph below represents an SIR model simulation of an influenza outbreak over 160 days. The three curves show the population of Susceptible (S), Infected (I), and Recovered (R) individuals.\n\nThe black dashed line shows the rapid decline in the susceptible population as the infection spreads.\nThe red line shows the peak of infection occurring around day 20, followed by a steep drop as individuals recover.\nThe blue dotted line represents the growth of the recovered population as more individuals recover and gain immunity over time.\n\n\n\n\n\n\n\nKey Parameters:\n\nTransmission Rate (β): In this case, β = 1.28, which represents how many people an infected person transmits the disease to per day. It is tied to the basic reproductive number (R₀), which is a crucial measure in epidemiology. The value of R₀ is calculated as:\nR₀​=β​/γ\nwhere γ is the recovery rate. R₀ tells us how many people one infected person will, on average, spread the disease to in a fully susceptible population. In this example, γ = 1/7 (1 recovery every 7 days). Thus, R₀ in this scenario is approximately 8.96, suggesting a highly contagious disease.\nRecovery Rate (γ): This parameter indicates how quickly infected individuals recover. A γ value of 1/7 means it takes an average of 7 days for an infected person to recover.\n\n\n\n\n\n\n\n\n\nSimulation of the COVID 19 SEIR model, including vaccination\n\n\n\n\n\n\nThe SEIRV model simulates the spread of COVID-19 by categorizing individuals into five groups:\n\nSusceptible (S): Uninfected and unvaccinated individuals.\nExposed (E): Infected but not yet contagious individuals.\nInfected (I): Actively infectious individuals.\nRecovered (R): Those who recovered from the disease and gained immunity.\nVaccinated (V): Individuals who received the vaccine, reducing their susceptibility.\n\nThis model demonstrates the dynamics of COVID-19 transmission over time and highlights how vaccination plays a crucial role in reducing the spread of the virus. It takes into account incubation periods, infection rates, and vaccination efforts, making it a useful tool for understanding epidemic behavior and predicting outcomes based on intervention strategies.\n\nStochastic Malaria Transmission Model (Human-Mosquito Dynamics)\n\n\nThis graph visualizes malaria transmission dynamics in an endemic area. It shows three populations over time:\n\nInfected Humans (red line): Peaks as malaria spreads, then declines as individuals recover.\nRecovered Humans (blue line): Grows steadily as infected individuals recover.\nMosquito Population (green line, secondary axis): Reflects seasonal variations, with a surge during the rainy season (days 50-150), leading to increased mosquito birth and malaria transmission.\n\nThis model simulates the interactions between humans and mosquitoes in an endemic malaria scenario.\nThe stochastic component is reflected in the randomness of mosquito population growth and human infection dynamics. The model uses twin axes to show human populations (infected and recovered) and mosquito population dynamics, including seasonal mosquito birth during the rainy season. This approach captures the inherent randomness in disease transmission and mosquito reproduction, making it more realistic for real-world applications."
-  },
-  {
-    "objectID": "posts/post-with-code/project_crimedim.html",
-    "href": "posts/post-with-code/project_crimedim.html",
-    "title": "2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts",
-    "section": "",
-    "text": "This was the result of my masters thesis at the global health center (CRIMEDIM). The systematic literature review uncovered four main setbacks in the flow of information amongst stakeholders."
-  },
-  {
-    "objectID": "posts/post-with-code/mixed.html",
-    "href": "posts/post-with-code/mixed.html",
-    "title": "Longitudinal Analysis Using Linear Mixed-effects Models",
-    "section": "",
-    "text": "We used the dataset Orthodont to perferm our analysis with repeated variables…\n\n\n\nGrowth of Childrens Teeth per Gender\n\n\n        ** Interpreting the model**\nThe lme function fits a linear mixed-effects model with distance as the response variable, age and Sex as fixed effects, and random intercepts and slopes (age) for each subject. The interaction term age * Sex allows for the possibility that the effect of age on distance might differ between males and females.\nThis plot shows the observed data points and the fitted lines from the mixed-effects model, with different colors representing different sexes."
-  },
-  {
-    "objectID": "index_main.html",
-    "href": "index_main.html",
-    "title": "Tamegye Boris Kouchou",
-    "section": "",
-    "text": "is a skilled professional with a Master’s degree in Medical Biotechnologies from the University of Eastern Piedmont, specializing in Public Health. He currently serves as a Data Analyst at the Vercelli Council’s Department of Civil Protection, where he utilizes his proficiency in R, QGIS, and Power BI to analyze environmental safety data and support public health initiatives.\nBoris has a strong background in infectious disease research, having studied epidemic outbreaks in conflict zones and conducted health surveys in low resource settings, his prior work as a Community Health Worker in Nigeria further underscores his commitment to public health and community well-being.\nBoris aspires to advance research in infectious disease epidemiology and collaborate with NGOs and governmental organizations to address disease dynamics on a global scale. He is recognized for his diligence, independence, and dedication to improving public health research."
-  },
-  {
     "objectID": "education.html",
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Master in Medical Biotechnologies 06 Oct 2022 - 16 Jul 2024\nInstitution: University of Eastern Piedmont, Novara, Italy\n\nSchool of medicine: Via Solaroli 17, 28100 Total CFU: 120\n\nRelevant courses:\nBig data analysis\nResearch methods and epidemiological study designs\nFunctional Genomics\nStructural Genomics\nBiomedical Statistics.\nFor more info about the degree program here —\nBachelor in Biomedical Science 06 Oct 2016 - 10 Aug 2019\nInstitution: University of Dschang, West region, Cameroon\nFaculty of Medcine and Pharmaceutical Sciences Total CFU: 180\nRelevant courses:\nEpidemiology of Infectious Diseases\nBiostatistics\nMedical Microbiology.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Institution: University of Eastern Piedmont, Novara, Italy\n\nSchool of medicine: Via Solaroli 17, 28100 Total CFU: 120\n\nRelevant courses:\nBig data analysis\nResearch methods and epidemiological study designs\nFunctional Genomics\nStructural Genomics\nBiomedical Statistics.\nFor more info about the degree program here —"
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Projects",
+    "objectID": "education.html#master-in-medical-biotechnologies-06-oct-2022---16-jul-2024",
+    "href": "education.html#master-in-medical-biotechnologies-06-oct-2022---16-jul-2024",
+    "title": "Education",
     "section": "",
-    "text": "1.Assessing the Variation in the Use of Analgesic in the Elderly\n\n\n\n\n\n\nPublic health\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 23, 2024\n\n\nMariem Hachani\n\n\n\n\n\n\n\n\n\n\n\n\n2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts\n\n\n\n\n\n\ncode\n\n\nEpidemiology\n\n\nr\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nTamegye Kouchou Boris\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Analysis Using Linear Mixed-effects Models\n\n\n\n\n\n\nBiostatistics\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nMay 23, 2024\n\n\nSalim Dasan, Boris Tamegye\n\n\n\n\n\n\nNo matching items"
+    "text": "Institution: University of Eastern Piedmont, Novara, Italy\n\nSchool of medicine: Via Solaroli 17, 28100 Total CFU: 120\n\nRelevant courses:\nBig data analysis\nResearch methods and epidemiological study designs\nFunctional Genomics\nStructural Genomics\nBiomedical Statistics.\nFor more info about the degree program here —"
+  },
+  {
+    "objectID": "education.html#bachelor-in-biomedical-science-06-oct-2016---10-aug-2019",
+    "href": "education.html#bachelor-in-biomedical-science-06-oct-2016---10-aug-2019",
+    "title": "Education",
+    "section": "Bachelor in Biomedical Science 06 Oct 2016 - 10 Aug 2019",
+    "text": "Bachelor in Biomedical Science 06 Oct 2016 - 10 Aug 2019\nInstitution: University of Dschang, West region, Cameroon\nFaculty of Medcine and Pharmaceutical Sciences Total CFU: 180\nRelevant courses:\nEpidemiology of Infectious Diseases\nBiostatistics\nMedical Microbiology."
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Infectious disease dynamics",
+    "section": "",
+    "text": "Infectious disease dynamics\n\nSimulation of the Kermack and McKendrick SIR model of influenza\n\nThe graph below represents an SIR model simulation of an influenza outbreak over 160 days. The three curves show the population of Susceptible (S), Infected (I), and Recovered (R) individuals.\n\nThe black dashed line shows the rapid decline in the susceptible population as the infection spreads.\nThe red line shows the peak of infection occurring around day 20, followed by a steep drop as individuals recover.\nThe blue dotted line represents the growth of the recovered population as more individuals recover and gain immunity over time.\n\n\n\n\n\n\n\nKey Parameters:\n\nTransmission Rate (β): In this case, β = 1.28, which represents how many people an infected person transmits the disease to per day. It is tied to the basic reproductive number (R₀), which is a crucial measure in epidemiology. The value of R₀ is calculated as:\nR₀​=β​/γ\nwhere γ is the recovery rate. R₀ tells us how many people one infected person will, on average, spread the disease to in a fully susceptible population. In this example, γ = 1/7 (1 recovery every 7 days). Thus, R₀ in this scenario is approximately 8.96, suggesting a highly contagious disease.\nRecovery Rate (γ): This parameter indicates how quickly infected individuals recover. A γ value of 1/7 means it takes an average of 7 days for an infected person to recover.\n\n\n\n\n\n\n\n\n\nSimulation of the COVID 19 SEIR model, including vaccination\n\n\n\n\n\n\nThe SEIRV model simulates the spread of COVID-19 by categorizing individuals into five groups:\n\nSusceptible (S): Uninfected and unvaccinated individuals.\nExposed (E): Infected but not yet contagious individuals.\nInfected (I): Actively infectious individuals.\nRecovered (R): Those who recovered from the disease and gained immunity.\nVaccinated (V): Individuals who received the vaccine, reducing their susceptibility.\n\nThis model demonstrates the dynamics of COVID-19 transmission over time and highlights how vaccination plays a crucial role in reducing the spread of the virus. It takes into account incubation periods, infection rates, and vaccination efforts, making it a useful tool for understanding epidemic behavior and predicting outcomes based on intervention strategies.\n\nStochastic Malaria Transmission Model (Human-Mosquito Dynamics)\n\n\nThis graph visualizes malaria transmission dynamics in an endemic area. It shows three populations over time:\n\nInfected Humans (red line): Peaks as malaria spreads, then declines as individuals recover.\nRecovered Humans (blue line): Grows steadily as infected individuals recover.\nMosquito Population (green line, secondary axis): Reflects seasonal variations, with a surge during the rainy season (days 50-150), leading to increased mosquito birth and malaria transmission.\n\nThis model simulates the interactions between humans and mosquitoes in an endemic malaria scenario.\nThe stochastic component is reflected in the randomness of mosquito population growth and human infection dynamics. The model uses twin axes to show human populations (infected and recovered) and mosquito population dynamics, including seasonal mosquito birth during the rainy season. This approach captures the inherent randomness in disease transmission and mosquito reproduction, making it more realistic for real-world applications."
   },
   {
     "objectID": "posts/post-with-code/projects_analgesic.html",
@@ -49,10 +35,31 @@
     "text": "This was a thesis project to assess the variation in the use of analgesics in the elderly globally, identify the patient/facility related factors. You can find the project here —"
   },
   {
-    "objectID": "quali.html",
-    "href": "quali.html",
-    "title": "About",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Projects",
     "section": "",
-    "text": "Master in Medical Biotechnologies 06 Oct 2022 - 16 Jul 2024\nInstitution: University of Eastern Piedmont, Novara, Italy - School of medicine: Via Solaroli 17, 28100\n\nTotal CFU: 120\n\nRelevant courses:\n\nBig data analysis\nResearch methods and epidemiological study designs\nFunctional Genomics\nStructural Genomics\nBiomedical Statistics.\n\nBachelor in Biomedical Science 06 Oct 2016 - 10 Aug 2019\nInstitution: University of Dschang, West region, Cameroon\n\nFaculty of Medcine and Pharmaceutical Sciences\nTotal CFU: 180\n\nRelevant courses:\n\nEpidemiology of Infectious Diseases\nBiostatistics\nMedical Microbiology."
+    "text": "1.Assessing the Variation in the Use of Analgesic in the Elderly\n\n\n\n\n\n\nPublic health\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nAug 23, 2024\n\n\nMariem Hachani\n\n\n\n\n\n\n\n\n\n\n\n\n2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts\n\n\n\n\n\n\ncode\n\n\nEpidemiology\n\n\nr\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nTamegye Kouchou Boris\n\n\n\n\n\n\n\n\n\n\n\n\nLongitudinal Analysis Using Linear Mixed-effects Models\n\n\n\n\n\n\nBiostatistics\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nMay 23, 2024\n\n\nSalim Dasan, Boris Tamegye\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index_main.html",
+    "href": "index_main.html",
+    "title": "Tamegye Boris Kouchou",
+    "section": "",
+    "text": "is a skilled professional with a Master’s degree in Medical Biotechnologies from the University of Eastern Piedmont, specializing in Public Health. He currently serves as a Data Analyst at the Vercelli Council’s Department of Civil Protection, where he utilizes his proficiency in R, QGIS, and Power BI to analyze environmental safety data and support public health initiatives.\nBoris has a strong background in infectious disease research, having studied epidemic outbreaks in conflict zones and conducted health surveys in low resource settings, his prior work as a Community Health Worker in Nigeria further underscores his commitment to public health and community well-being.\nBoris aspires to advance research in infectious disease epidemiology and collaborate with NGOs and governmental organizations to address disease dynamics on a global scale. He is recognized for his diligence, independence, and dedication to improving public health research."
+  },
+  {
+    "objectID": "posts/post-with-code/mixed.html",
+    "href": "posts/post-with-code/mixed.html",
+    "title": "Longitudinal Analysis Using Linear Mixed-effects Models",
+    "section": "",
+    "text": "We used the dataset Orthodont to perferm our analysis with repeated variables…\n\n\n\nGrowth of Childrens Teeth per Gender\n\n\n        ** Interpreting the model**\nThe lme function fits a linear mixed-effects model with distance as the response variable, age and Sex as fixed effects, and random intercepts and slopes (age) for each subject. The interaction term age * Sex allows for the possibility that the effect of age on distance might differ between males and females.\nThis plot shows the observed data points and the fitted lines from the mixed-effects model, with different colors representing different sexes."
+  },
+  {
+    "objectID": "posts/post-with-code/project_crimedim.html",
+    "href": "posts/post-with-code/project_crimedim.html",
+    "title": "2. Reviewing the Challenges in Data Collection and Reporting by Humanitarian Organizations in Armed Conflicts",
+    "section": "",
+    "text": "This was the result of my masters thesis at the global health center (CRIMEDIM). The systematic literature review uncovered four main setbacks in the flow of information amongst stakeholders."
   }
 ]
