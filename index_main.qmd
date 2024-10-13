@@ -15,8 +15,4 @@ about:
       href:                                                            https://github.com  
 ---
 
-Boris is a skilled professional with a Master’s degree in Medical Biotechnologies from the University of Eastern Piedmont, specializing in Public Health. He currently serves as a Data Analyst at the Vercelli Council's Department of Civil Protection, where he utilizes his proficiency in R, QGIS, and Power BI to analyze environmental safety data and support public health initiatives.
-
-He has a strong background in infectious disease modeling, having studied epidemic outbreaks in conflict zones and conducted health surveys in low resource settings, his prior work as a Community Health Worker in Nigeria further underscores his commitment to public health and community well-being.
-
-This fellow aspires to conduct advance research in infectious disease epidemiology and collaborate with NGOs and governmental organizations to address disease dynamics on a global scale. He is recognized for his diligence, independence, and dedication to improving public health research.
+Boris is a passionate fellow with a strong background in infectious disease modeling. He aspires to conduct advanced research in infectious disease epidemiology and collaborate with NGOs and governmental organizations to address disease dynamics on a global scale. He is recognized for his diligence, independence, and dedication to improving public health research.
