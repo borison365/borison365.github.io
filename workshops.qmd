@@ -1,6 +1,8 @@
 # **Infectious disease dynamics**
 
-1.  Simulation of the **Kermack and McKendrick** SIR model of influenza
+**A- Workshop 1**
+
+1\. Simulation of the **Kermack and McKendrick** SIR model of influenza
 
 The graph below represents an **SIR model** simulation of an influenza outbreak over 160 days. The three curves show the population of **Susceptible (S)**, **Infected (I)**, and **Recovered (R)** individuals.
 
@@ -59,3 +61,7 @@ This graph visualizes malaria transmission dynamics in an endemic area. It shows
     -   This model simulates the interactions between humans and mosquitoes in an endemic malaria scenario.
 
     -   The **stochastic component** is reflected in the randomness of mosquito population growth and human infection dynamics. The model uses **twin axes** to show **human populations** (infected and recovered) and **mosquito population** dynamics, including seasonal mosquito birth during the rainy season. This approach captures the inherent randomness in disease transmission and mosquito reproduction, making it more realistic for real-world applications.
+
+**B - Work shop 2**
+
+![](images/clipboard-1248306971.png)
