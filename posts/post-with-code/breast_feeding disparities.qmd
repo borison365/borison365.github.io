@@ -1,0 +1,18 @@
+---
+title: "Exploring Geographic and Demographic Disparities in Breastfeeding Practices: A Nationwide Analysis of U.S. Trends from the National Immunization Survey"
+author: "Boris Tamegye"
+date: "2024-10-10"
+categories: [Quantitative analysis, Biostatistics, r]
+---
+
+![![](images/clipboard-3509701648.png){width="204"}](images/clipboard-3619461124.png){width="11" height="2"}
+
+![![](images/clipboard-3245487741.png)](images/clipboard-3211384537.png){width="830"}
+
+![![](images/clipboard-3419306591.png)](images/clipboard-3280918164.png)
+
+![](images/clipboard-2081346551.png)
+
+![](images/clipboard-2875328051.png)
+
+![](images/clipboard-910697232.png)

@@ -1,18 +1,8 @@
 [
   {
-    "listing": "/education.html",
-    "items": [
-      "/index_main.html",
-      "/portfolio.html",
-      "/workshops.html",
-      "/posts/post-with-code/projects_analgesic.html",
-      "/posts/post-with-code/project_crimedim.html",
-      "/posts/post-with-code/mixed.html"
-    ]
-  },
-  {
     "listing": "/portfolio.html",
     "items": [
+      "/posts/post-with-code/breast_feeding disparities.html",
       "/posts/post-with-code/projects_analgesic.html",
       "/posts/post-with-code/project_crimedim.html",
       "/posts/post-with-code/mixed.html"

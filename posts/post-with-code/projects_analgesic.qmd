@@ -1,9 +1,19 @@
 ---
-title: "1.Assessing the Variation in the Use of Analgesic in the Elderly"
-author: "Mariem Hachani"
+title: "1. Assessing the Variation in the Use of Analgesic in the Elderly"
+author: "Mariem Hachani, Boris Tamgeye"
 date: "2024-08-23"
-categories: [Public health, analysis, r]
+categories: [Public health, preventive medicine]
 image: "over_view.jpg"
 ---
 
-This was a thesis project to assess the variation in the use of analgesics in the elderly globally, identify the patient/facility related factors. You can find the project [here](https://github.com/borison365/Demographic-health-survey/blob/main/Thesis%20data%20on%20Analgesic%20use.R){target="blank"} ---
+![](images/clipboard-2611467034.png)
+
+# INTRODUCTION
+
+![](images/clipboard-1373316247.png){width="398"}
+
+![](images/clipboard-2725585515.png)
+
+This thesis project aimed to assess the variation in the use of analgesics in the elderly in long term care facilities (LTCFs), identify the patient/facility related factors associated with the variation in prescription. You can find details of the project [here](https://github.com/borison365/Demographic-health-survey/blob/main/Thesis%20data%20on%20Analgesic%20use.R){target="blank"} ---
+
+![](images/clipboard-621997198.png){width="620"}

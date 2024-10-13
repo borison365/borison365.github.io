@@ -3,7 +3,7 @@ title: "Education"
 categories: [Undergrad, Postgrad]
 ---
 
-## **Master in Medical Biotechnologies**          *06 Oct 2022 - 16 Jul 2024*
+## **Master in Medical Biotechnologies** *06 Oct 2022 - 16 Jul 2024*
 
 Institution: University of Eastern Piedmont, Novara, Italy
 
@@ -23,7 +23,7 @@ Biomedical Statistics.
 
 For more info about the degree program [here](https://www.uniupo.it/en/courses/masters-degrees/medical-biotechnologies-course-held-english){target="blank"} ---
 
-## **Bachelor in Biomedical Science**           *06 Oct 2016 - 10 Aug 2019*
+## **Bachelor in Biomedical Science** *06 Oct 2016 - 10 Aug 2019*
 
 Institution: University of Dschang, West region, Cameroon
 
