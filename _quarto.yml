@@ -12,7 +12,7 @@ website:
       - text: "Portfolio"
         file: portfolio.qmd
       - text: "Education"
-      - file: education.qmd
+      - file: qducation.qmd
       - text: "Workshops"
         file: workshops.qmd
       
