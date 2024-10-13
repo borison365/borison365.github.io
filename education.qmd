@@ -11,15 +11,19 @@ Institution: University of Eastern Piedmont, Novara, Italy
 
 **Relevant courses**:
 
-Big data analysis
+-   Big data analysis
 
-Research methods and epidemiological study designs
+-   Research methods and epidemiological study designs
 
-Functional Genomics
+-   Functional Genomics
 
-Structural Genomics
+-   Structural Genomics
 
-Biomedical Statistics.
+-   Biomedical Statistics
+
+-   Virology
+
+-   English Scientific Writing
 
 For more info about the degree program [here](https://www.uniupo.it/en/courses/masters-degrees/medical-biotechnologies-course-held-english){target="blank"} ---
 
@@ -31,8 +35,12 @@ Faculty of Medcine and Pharmaceutical Sciences Total CFU: 180
 
 **Relevant courses**:
 
-Epidemiology of Infectious Diseases
+-   Epidemiology of Infectious Diseases
 
-Biostatistics
+-   Biostatistics
 
-Medical Microbiology.
+-   Medical Microbiology
+
+-   Primary health care
+
+-   Foundations in basic medical sciences (Anatomy, Physiology, Biochemistry, Pharmacology, Pathology... )
