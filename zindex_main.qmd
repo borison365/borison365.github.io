@@ -15,4 +15,4 @@ about:
       href:                                                            https://github.com  
 ---
 
-Boris is a passionate fellow with a strong background in infectious disease modeling. He aspires to conduct advanced research in infectious disease epidemiology and collaborate with NGOs and governmental organizations to address disease dynamics on a global scale. He is recognized for his diligence, independence, and dedication to improving public health research.
+Boris is a passionate fellow with a strong background in infectious disease modeling, and aspires to conduct advanced research in infectious disease epidemiology and collaborate with NGOs and governmental organizations to address disease dynamics on a global scale. He is recognized for his diligence, independence, and dedication to improving public health research.

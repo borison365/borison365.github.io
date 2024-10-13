@@ -4,11 +4,11 @@ project:
 
 website:
 
-  title: "About"
+  title: "Welcome"
   navbar:
     left: 
       - text: "Home"
-        file: index_main.qmd
+        file: zindex_main.qmd
       - text: "Portfolio"
         file: portfolio.qmd
       - text: "Education"
