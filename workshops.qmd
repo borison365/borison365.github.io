@@ -1,8 +1,10 @@
-# **Infectious disease dynamics**
+# **I. Infectious disease dynamics**
 
 **A- Workshop 1**
 
-1\. Simulation of the **Kermack and McKendrick** SIR model of influenza
+In a workshop I participated in mathematical modeling, we:
+
+1\. Simulated the **Kermack and McKendrick** SIR model of influenza
 
 The graph below represents an **SIR model** simulation of an influenza outbreak over 160 days. The three curves show the population of **Susceptible (S)**, **Infected (I)**, and **Recovered (R)** individuals.
 
@@ -64,4 +66,70 @@ This graph visualizes malaria transmission dynamics in an endemic area. It shows
 
 **B - Work shop 2**
 
+-   In this second session I was introduced to designing models using the modeling tool Beckely Madonna
+
+    -   Below is a simulated outbreak of an epidemic its dynamics.
+
 ![](images/clipboard-1248306971.png)
+
+![](images/clipboard-469836562.png){fig-align="right" width="472"}
+
+## II. Phylogenetic inference
+
+![](images/clipboard-1391514679.png)
+
+![](images/clipboard-1303459232.png){width="1037"}
+
+![![](images/clipboard-4073230038.png)](images/clipboard-1699104533.png)
+
+## III. Bioinformatics project
+
+##  Objective
+
+This study aimed to investigate the role of gut microbiota in the progression of Alzheimer’s Disease (AD) using transgenic mouse models, focusing on shifts in microbial diversity and composition over time.
+
+#### Study Design and Sample Collection
+
+-   **Subjects**: A total of 12 mice were used, comprising 6 transgenic Alzheimer’s mice (3xTg-AD) and 6 wild-type (WT) controls.
+
+-   **Sampling Time Points**: Fecal samples were collected at three distinct intervals: 2 months, 6 months, and 12 months of age, resulting in a total of 36 samples across both groups.
+
+#### Methodology
+
+1.  **Shotgun Sequencing**
+
+    -   **Platform**: Illumina NextSeq 500/550 was used for high-throughput shotgun metagenomic sequencing, providing comprehensive microbial profiles of the collected fecal samples.
+
+2.  **Sequence Quality Control**
+
+    -   **Software**: MultiQC was employed to assess and ensure the quality of sequencing data, allowing for the identification and removal of low-quality reads.
+
+3.  **Sequence Alignment and Host DNA Removal**
+
+    -   **Software**: Bowtie2 was used to align sequences to a reference genome, enabling the exclusion of host (mouse) DNA and isolating microbial reads for further analysis.
+
+4.  **Taxonomic Profiling**
+
+    -   **Software**: MetaPhlAn 4 was utilized for taxonomic profiling, providing high-resolution identification of microbial taxa present in each sample.
+
+5.  **Diversity Analysis**
+
+    -   **Software**: MicrobiomeAnalyst facilitated the comparative analysis of microbial diversity, specifically targeting alpha (within-sample) and beta (between-sample) diversity.
+
+![](images/clipboard-510821481.png)
+
+#### Results
+
+-   **Comparative Analysis of Microbiome Diversity**
+
+    -   Pairwise comparisons of microbiome diversity were conducted between the following time points: 2 months vs. 6 months, 2 months vs. 12 months, and 6 months vs. 12 months.
+
+    -   **Key Findings**: Significant differences in microbiome diversity were observed only in the Alzheimer’s (3xTg-AD) group between the 2-month and 12-month samples. No significant diversity changes were detected between these time points in the wild-type control group, nor in comparisons between 2 and 6 months or 6 and 12 months for either group.
+
+#### Conclusion
+
+-   The observed significant shift in microbiome diversity over time in the Alzheimer’s model, particularly between 2 and 12 months, suggests a potential association between gut microbial composition and the progression of Alzheimer’s Disease.
+
+-   These findings highlight the importance of longitudinal microbiome analysis in transgenic models and may contribute to identifying microbial markers linked to neurodegenerative disease progression.
+
+-   Future studies could further investigate the specific bacterial taxa responsible for these differences, potentially paving the way for microbiome-based therapeutic strategies in Alzheimer’s Disease.

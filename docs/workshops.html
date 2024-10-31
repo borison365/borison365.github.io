@@ -136,10 +136,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="infectious-disease-dynamics" class="level1">
-<h1><strong>Infectious disease dynamics</strong></h1>
+<section id="i.-infectious-disease-dynamics" class="level1">
+<h1><strong>I. Infectious disease dynamics</strong></h1>
 <p><strong>A- Workshop 1</strong></p>
-<p>1. Simulation of the <strong>Kermack and McKendrick</strong> SIR model of influenza</p>
+<p>In a workshop I participated in mathematical modeling, we:</p>
+<p>1. Simulated the <strong>Kermack and McKendrick</strong> SIR model of influenza</p>
 <p>The graph below represents an <strong>SIR model</strong> simulation of an influenza outbreak over 160 days. The three curves show the population of <strong>Susceptible (S)</strong>, <strong>Infected (I)</strong>, and <strong>Recovered (R)</strong> individuals.</p>
 <ul>
 <li><p>The <strong>black dashed line</strong> shows the rapid decline in the susceptible population as the infection spreads.</p></li>
@@ -198,9 +199,89 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 </ol>
 <p><strong>B - Work shop 2</strong></p>
+<ul>
+<li><p>In this second session I was introduced to designing models using the modeling tool Beckely Madonna</p>
+<ul>
+<li>Below is a simulated outbreak of an epidemic its dynamics.</li>
+</ul></li>
+</ul>
 <p><img src="images/clipboard-1248306971.png" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="images/clipboard-469836562.png" class="img-fluid quarto-figure quarto-figure-right figure-img" width="472"></p>
+</figure>
+</div>
+</section>
+<section id="ii.-phylogenetic-inference" class="level2">
+<h2 class="anchored" data-anchor-id="ii.-phylogenetic-inference">II. Phylogenetic inference</h2>
+<p><img src="images/clipboard-1391514679.png" class="img-fluid"></p>
+<p><img src="images/clipboard-1303459232.png" class="img-fluid" width="1037"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clipboard-1699104533.png" class="img-fluid figure-img"></p>
+<figcaption><img src="images/clipboard-4073230038.png" class="img-fluid figure-img"></figcaption>
+</figure>
+</div>
+</section>
+<section id="iii.-bioinformatics-project" class="level2">
+<h2 class="anchored" data-anchor-id="iii.-bioinformatics-project">III. Bioinformatics project</h2>
+</section>
+<section id="objective" class="level2">
+<h2 class="anchored" data-anchor-id="objective">Objective</h2>
+<p>This study aimed to investigate the role of gut microbiota in the progression of Alzheimer’s Disease (AD) using transgenic mouse models, focusing on shifts in microbial diversity and composition over time.</p>
+<section id="study-design-and-sample-collection" class="level4">
+<h4 class="anchored" data-anchor-id="study-design-and-sample-collection">Study Design and Sample Collection</h4>
+<ul>
+<li><p><strong>Subjects</strong>: A total of 12 mice were used, comprising 6 transgenic Alzheimer’s mice (3xTg-AD) and 6 wild-type (WT) controls.</p></li>
+<li><p><strong>Sampling Time Points</strong>: Fecal samples were collected at three distinct intervals: 2 months, 6 months, and 12 months of age, resulting in a total of 36 samples across both groups.</p></li>
+</ul>
+</section>
+<section id="methodology" class="level4">
+<h4 class="anchored" data-anchor-id="methodology">Methodology</h4>
+<ol type="1">
+<li><p><strong>Shotgun Sequencing</strong></p>
+<ul>
+<li><strong>Platform</strong>: Illumina NextSeq 500/550 was used for high-throughput shotgun metagenomic sequencing, providing comprehensive microbial profiles of the collected fecal samples.</li>
+</ul></li>
+<li><p><strong>Sequence Quality Control</strong></p>
+<ul>
+<li><strong>Software</strong>: MultiQC was employed to assess and ensure the quality of sequencing data, allowing for the identification and removal of low-quality reads.</li>
+</ul></li>
+<li><p><strong>Sequence Alignment and Host DNA Removal</strong></p>
+<ul>
+<li><strong>Software</strong>: Bowtie2 was used to align sequences to a reference genome, enabling the exclusion of host (mouse) DNA and isolating microbial reads for further analysis.</li>
+</ul></li>
+<li><p><strong>Taxonomic Profiling</strong></p>
+<ul>
+<li><strong>Software</strong>: MetaPhlAn 4 was utilized for taxonomic profiling, providing high-resolution identification of microbial taxa present in each sample.</li>
+</ul></li>
+<li><p><strong>Diversity Analysis</strong></p>
+<ul>
+<li><strong>Software</strong>: MicrobiomeAnalyst facilitated the comparative analysis of microbial diversity, specifically targeting alpha (within-sample) and beta (between-sample) diversity.</li>
+</ul></li>
+</ol>
+<p><img src="images/clipboard-510821481.png" class="img-fluid"></p>
+</section>
+<section id="results" class="level4">
+<h4 class="anchored" data-anchor-id="results">Results</h4>
+<ul>
+<li><p><strong>Comparative Analysis of Microbiome Diversity</strong></p>
+<ul>
+<li><p>Pairwise comparisons of microbiome diversity were conducted between the following time points: 2 months vs.&nbsp;6 months, 2 months vs.&nbsp;12 months, and 6 months vs.&nbsp;12 months.</p></li>
+<li><p><strong>Key Findings</strong>: Significant differences in microbiome diversity were observed only in the Alzheimer’s (3xTg-AD) group between the 2-month and 12-month samples. No significant diversity changes were detected between these time points in the wild-type control group, nor in comparisons between 2 and 6 months or 6 and 12 months for either group.</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="conclusion" class="level4">
+<h4 class="anchored" data-anchor-id="conclusion">Conclusion</h4>
+<ul>
+<li><p>The observed significant shift in microbiome diversity over time in the Alzheimer’s model, particularly between 2 and 12 months, suggests a potential association between gut microbial composition and the progression of Alzheimer’s Disease.</p></li>
+<li><p>These findings highlight the importance of longitudinal microbiome analysis in transgenic models and may contribute to identifying microbial markers linked to neurodegenerative disease progression.</p></li>
+<li><p>Future studies could further investigate the specific bacterial taxa responsible for these differences, potentially paving the way for microbiome-based therapeutic strategies in Alzheimer’s Disease.</p></li>
+</ul>
 
 
+</section>
 </section>
 </section>
 
